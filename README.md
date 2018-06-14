@@ -1,2 +1,2 @@
 # Tide
-A Evolution Algorithm Framework in Python
+An Evolution Algorithm Framework in Python
